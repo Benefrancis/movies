@@ -1,0 +1,5 @@
+{
+  "name": "CineStream Pro",
+  "description": "Uma experiência premium de streaming com design inspirado na Apple TV+, utilizando dados do TMDB e funcionalidades sociais.",
+  "requestFramePermissions": []
+}
